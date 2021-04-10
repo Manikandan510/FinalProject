@@ -1,0 +1,252 @@
+C:\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\log4net.config
+C:\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\appsettings.Development.json
+C:\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\appsettings.json
+C:\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.exe
+C:\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.deps.json
+C:\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.runtimeconfig.json
+C:\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.runtimeconfig.dev.json
+C:\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.dll
+C:\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ref\ProductMicroService.dll
+C:\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.pdb
+C:\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\log4net.dll
+C:\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.csprojAssemblyReference.cache
+C:\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.AssemblyInfoInputs.cache
+C:\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.AssemblyInfo.cs
+C:\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.csproj.CoreCompileInputs.cache
+C:\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.MvcApplicationPartsAssemblyInfo.cs
+C:\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.MvcApplicationPartsAssemblyInfo.cache
+C:\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\staticwebassets\ProductMicroService.StaticWebAssets.Manifest.cache
+C:\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\staticwebassets\ProductMicroService.StaticWebAssets.xml
+C:\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\scopedcss\bundle\ProductMicroService.styles.css
+C:\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.RazorTargetAssemblyInfo.cache
+C:\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.csproj.CopyComplete
+C:\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.dll
+C:\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ref\ProductMicroService.dll
+C:\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.pdb
+C:\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.genruntimeconfig.cache
+C:\jayasri\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\log4net.config
+C:\jayasri\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\appsettings.Development.json
+C:\jayasri\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\appsettings.json
+C:\jayasri\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.exe
+C:\jayasri\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.deps.json
+C:\jayasri\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.runtimeconfig.json
+C:\jayasri\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.runtimeconfig.dev.json
+C:\jayasri\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.dll
+C:\jayasri\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ref\ProductMicroService.dll
+C:\jayasri\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.pdb
+C:\jayasri\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\log4net.dll
+C:\jayasri\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\jayasri\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\jayasri\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\jayasri\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\jayasri\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\jayasri\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\jayasri\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\jayasri\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\jayasri\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\jayasri\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\jayasri\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\jayasri\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\jayasri\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\jayasri\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\jayasri\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\jayasri\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.csprojAssemblyReference.cache
+C:\jayasri\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.GeneratedMSBuildEditorConfig.editorconfig
+C:\jayasri\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.AssemblyInfoInputs.cache
+C:\jayasri\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.AssemblyInfo.cs
+C:\jayasri\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.csproj.CoreCompileInputs.cache
+C:\jayasri\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.MvcApplicationPartsAssemblyInfo.cs
+C:\jayasri\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.MvcApplicationPartsAssemblyInfo.cache
+C:\jayasri\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\staticwebassets\ProductMicroService.StaticWebAssets.Manifest.cache
+C:\jayasri\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\staticwebassets\ProductMicroService.StaticWebAssets.xml
+C:\jayasri\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\scopedcss\bundle\ProductMicroService.styles.css
+C:\jayasri\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.RazorTargetAssemblyInfo.cache
+C:\jayasri\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.csproj.CopyComplete
+C:\jayasri\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.dll
+C:\jayasri\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ref\ProductMicroService.dll
+C:\jayasri\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.pdb
+C:\jayasri\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.genruntimeconfig.cache
+D:\Product\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\log4net.config
+D:\Product\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\appsettings.Development.json
+D:\Product\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\appsettings.json
+D:\Product\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.exe
+D:\Product\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.deps.json
+D:\Product\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.runtimeconfig.json
+D:\Product\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.runtimeconfig.dev.json
+D:\Product\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.dll
+D:\Product\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ref\ProductMicroService.dll
+D:\Product\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.pdb
+D:\Product\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\log4net.dll
+D:\Product\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Product\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Product\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Product\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Product\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Product\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Product\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Product\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Product\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Product\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Product\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Product\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Product\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Product\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Product\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Product\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.csprojAssemblyReference.cache
+D:\Product\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Product\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.AssemblyInfoInputs.cache
+D:\Product\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.AssemblyInfo.cs
+D:\Product\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.csproj.CoreCompileInputs.cache
+D:\Product\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.MvcApplicationPartsAssemblyInfo.cs
+D:\Product\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.MvcApplicationPartsAssemblyInfo.cache
+D:\Product\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\staticwebassets\ProductMicroService.StaticWebAssets.Manifest.cache
+D:\Product\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\staticwebassets\ProductMicroService.StaticWebAssets.xml
+D:\Product\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\scopedcss\bundle\ProductMicroService.styles.css
+D:\Product\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.RazorTargetAssemblyInfo.cache
+D:\Product\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.csproj.CopyComplete
+D:\Product\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.dll
+D:\Product\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ref\ProductMicroService.dll
+D:\Product\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.pdb
+D:\Product\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.genruntimeconfig.cache
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\log4net.config
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\appsettings.Development.json
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\appsettings.json
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.exe
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.deps.json
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.runtimeconfig.json
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.runtimeconfig.dev.json
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.dll
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ref\ProductMicroService.dll
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.pdb
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\log4net.dll
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.csprojAssemblyReference.cache
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.AssemblyInfoInputs.cache
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.AssemblyInfo.cs
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.csproj.CoreCompileInputs.cache
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.MvcApplicationPartsAssemblyInfo.cs
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\staticwebassets\ProductMicroService.StaticWebAssets.Manifest.cache
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\staticwebassets\ProductMicroService.StaticWebAssets.xml
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\scopedcss\bundle\ProductMicroService.styles.css
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.RazorTargetAssemblyInfo.cache
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.csproj.CopyComplete
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.dll
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ref\ProductMicroService.dll
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.pdb
+D:\C#\Final_Project\Final Project\Product\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.genruntimeconfig.cache
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\log4net.config
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\appsettings.json
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.exe
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.deps.json
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.runtimeconfig.json
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.runtimeconfig.dev.json
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.dll
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ref\ProductMicroService.dll
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.pdb
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\log4net.dll
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.csprojAssemblyReference.cache
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.AssemblyInfoInputs.cache
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.AssemblyInfo.cs
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.csproj.CoreCompileInputs.cache
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\obj\Debug\net5.0\staticwebassets\ProductMicroService.StaticWebAssets.Manifest.cache
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\obj\Debug\net5.0\staticwebassets\ProductMicroService.StaticWebAssets.xml
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\obj\Debug\net5.0\scopedcss\bundle\ProductMicroService.styles.css
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.RazorTargetAssemblyInfo.cache
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.csproj.CopyComplete
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.dll
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ref\ProductMicroService.dll
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.pdb
+C:\Users\manik\Desktop\Final\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.genruntimeconfig.cache
+D:\Final\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.dll
+D:\Final\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ref\ProductMicroService.dll
+D:\Final\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.pdb
+D:\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\log4net.config
+D:\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\appsettings.Development.json
+D:\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\appsettings.json
+D:\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.exe
+D:\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.deps.json
+D:\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.runtimeconfig.json
+D:\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.runtimeconfig.dev.json
+D:\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.dll
+D:\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ref\ProductMicroService.dll
+D:\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\ProductMicroService.pdb
+D:\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\log4net.dll
+D:\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Final\ProductMicroService\ProductMicroService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Final\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.csprojAssemblyReference.cache
+D:\Final\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.AssemblyInfoInputs.cache
+D:\Final\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.AssemblyInfo.cs
+D:\Final\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.csproj.CoreCompileInputs.cache
+D:\Final\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.MvcApplicationPartsAssemblyInfo.cs
+D:\Final\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.MvcApplicationPartsAssemblyInfo.cache
+D:\Final\ProductMicroService\ProductMicroService\obj\Debug\net5.0\staticwebassets\ProductMicroService.StaticWebAssets.Manifest.cache
+D:\Final\ProductMicroService\ProductMicroService\obj\Debug\net5.0\staticwebassets\ProductMicroService.StaticWebAssets.xml
+D:\Final\ProductMicroService\ProductMicroService\obj\Debug\net5.0\scopedcss\bundle\ProductMicroService.styles.css
+D:\Final\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.RazorTargetAssemblyInfo.cache
+D:\Final\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.csproj.CopyComplete
+D:\Final\ProductMicroService\ProductMicroService\obj\Debug\net5.0\ProductMicroService.genruntimeconfig.cache

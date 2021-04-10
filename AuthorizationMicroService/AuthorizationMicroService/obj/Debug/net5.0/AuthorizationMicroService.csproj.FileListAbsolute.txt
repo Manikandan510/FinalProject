@@ -1,0 +1,233 @@
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\log4net.config
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\appsettings.Development.json
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\appsettings.json
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.exe
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.deps.json
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.runtimeconfig.json
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.runtimeconfig.dev.json
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.dll
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\ref\AuthorizationMicroService.dll
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.pdb
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\log4net.dll
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.csprojAssemblyReference.cache
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.GeneratedMSBuildEditorConfig.editorconfig
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.AssemblyInfoInputs.cache
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.AssemblyInfo.cs
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.csproj.CoreCompileInputs.cache
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cs
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cache
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\staticwebassets\AuthorizationMicroService.StaticWebAssets.Manifest.cache
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\staticwebassets\AuthorizationMicroService.StaticWebAssets.xml
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMicroService.styles.css
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.RazorTargetAssemblyInfo.cache
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.csproj.CopyComplete
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.dll
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\ref\AuthorizationMicroService.dll
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.pdb
+F:\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.genruntimeconfig.cache
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\log4net.config
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\appsettings.Development.json
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\appsettings.json
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.exe
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.deps.json
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.runtimeconfig.json
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.runtimeconfig.dev.json
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.dll
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\ref\AuthorizationMicroService.dll
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.pdb
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\log4net.dll
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.GeneratedMSBuildEditorConfig.editorconfig
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.AssemblyInfoInputs.cache
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.AssemblyInfo.cs
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.csproj.CoreCompileInputs.cache
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cs
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cache
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\staticwebassets\AuthorizationMicroService.StaticWebAssets.Manifest.cache
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\staticwebassets\AuthorizationMicroService.StaticWebAssets.xml
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMicroService.styles.css
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.RazorTargetAssemblyInfo.cache
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.csproj.CopyComplete
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.dll
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\ref\AuthorizationMicroService.dll
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.pdb
+C:\jayasri\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.genruntimeconfig.cache
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\log4net.config
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\appsettings.Development.json
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\appsettings.json
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.exe
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.deps.json
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.runtimeconfig.json
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.runtimeconfig.dev.json
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.dll
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\ref\AuthorizationMicroService.dll
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.pdb
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\log4net.dll
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.csprojAssemblyReference.cache
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.GeneratedMSBuildEditorConfig.editorconfig
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.AssemblyInfoInputs.cache
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.AssemblyInfo.cs
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.csproj.CoreCompileInputs.cache
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cs
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cache
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\staticwebassets\AuthorizationMicroService.StaticWebAssets.Manifest.cache
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\staticwebassets\AuthorizationMicroService.StaticWebAssets.xml
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMicroService.styles.css
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.RazorTargetAssemblyInfo.cache
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.csproj.CopyComplete
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.dll
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\ref\AuthorizationMicroService.dll
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.pdb
+F:\Stage 4 Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.genruntimeconfig.cache
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\log4net.config
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\appsettings.Development.json
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\appsettings.json
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.exe
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.deps.json
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.runtimeconfig.json
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.runtimeconfig.dev.json
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.dll
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\ref\AuthorizationMicroService.dll
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.pdb
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\log4net.dll
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.csprojAssemblyReference.cache
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.AssemblyInfoInputs.cache
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.AssemblyInfo.cs
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.csproj.CoreCompileInputs.cache
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cs
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\staticwebassets\AuthorizationMicroService.StaticWebAssets.Manifest.cache
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\staticwebassets\AuthorizationMicroService.StaticWebAssets.xml
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMicroService.styles.css
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.RazorTargetAssemblyInfo.cache
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.csproj.CopyComplete
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.dll
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\ref\AuthorizationMicroService.dll
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.pdb
+D:\C#\Final_Project\Final Project\Authorization\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.genruntimeconfig.cache
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\log4net.config
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\appsettings.json
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.exe
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.deps.json
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.runtimeconfig.json
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.runtimeconfig.dev.json
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.dll
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\ref\AuthorizationMicroService.dll
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.pdb
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\log4net.dll
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.csprojAssemblyReference.cache
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.AssemblyInfoInputs.cache
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.AssemblyInfo.cs
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.csproj.CoreCompileInputs.cache
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\staticwebassets\AuthorizationMicroService.StaticWebAssets.Manifest.cache
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\staticwebassets\AuthorizationMicroService.StaticWebAssets.xml
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMicroService.styles.css
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.RazorTargetAssemblyInfo.cache
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.csproj.CopyComplete
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.dll
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\ref\AuthorizationMicroService.dll
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.pdb
+C:\Users\manik\Desktop\Final\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.genruntimeconfig.cache
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\log4net.config
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\appsettings.Development.json
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\appsettings.json
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.exe
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.deps.json
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.runtimeconfig.json
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.runtimeconfig.dev.json
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.dll
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\ref\AuthorizationMicroService.dll
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\AuthorizationMicroService.pdb
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\log4net.dll
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.csprojAssemblyReference.cache
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.AssemblyInfoInputs.cache
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.AssemblyInfo.cs
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.csproj.CoreCompileInputs.cache
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cs
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cache
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\staticwebassets\AuthorizationMicroService.StaticWebAssets.Manifest.cache
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\staticwebassets\AuthorizationMicroService.StaticWebAssets.xml
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMicroService.styles.css
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.RazorTargetAssemblyInfo.cache
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.csproj.CopyComplete
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.dll
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\ref\AuthorizationMicroService.dll
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.pdb
+D:\Final\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\net5.0\AuthorizationMicroService.genruntimeconfig.cache

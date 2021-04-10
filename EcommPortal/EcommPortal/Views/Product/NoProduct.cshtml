@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewData["Title"] = "NoProduct";
+}
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        .forms {
+            margin: 5%;
+            margin-left: 10%;
+            width: 80%;
+            height: 260px;
+            background: rgba(0, 0, 0, 0.5);
+            color: #fff;
+            position: center;
+            box-sizing: border-box;
+            padding: 20px 40px;
+        }
+
+    body { background-size: cover; background-image: url("https://ak8.picdn.net/shutterstock/videos/9142298/thumb/1.jpg"); }
+    </style>
+
+</head>
+<body>
+
+    <div class="forms">
+
+        <center>
+            <h2><i class="fa fa-exclamation-circle" style="font-size:xx-large;"></i> Warning</h2>
+        
+        <br />
+        <h5>There is No such Product, Would you like to search for other products.</h5>
+        <br/>
+            <a class="btn btn-success" href="@Url.Action("Home", "Product")"><i class="fa fa-check" ></i> Yes</a>
+            <a class="btn btn-danger" href="@Url.Action("Logout","Authentication")"><i class="fa fa-times"></i> No</a>
+        </center>
+       
+</div>
+</body>

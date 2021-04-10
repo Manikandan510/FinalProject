@@ -1,0 +1,825 @@
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.AssemblyInfoInputs.cache
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.AssemblyInfo.cs
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.csproj.CoreCompileInputs.cache
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.RazorAssemblyInfo.cache
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.RazorAssemblyInfo.cs
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\log4net.config
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\appsettings.Development.json
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\appsettings.json
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.exe
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.deps.json
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.runtimeconfig.json
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.runtimeconfig.dev.json
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ref\EcommPortal.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.pdb
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.Views.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.Views.pdb
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Humanizer.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\log4net.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\staticwebassets\EcommPortal.StaticWebAssets.Manifest.cache
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\staticwebassets\EcommPortal.StaticWebAssets.xml
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\scopedcss\bundle\EcommPortal.styles.css
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.TagHelpers.input.cache
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.TagHelpers.output.cache
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.RazorCoreGenerate.cache
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.RazorTargetAssemblyInfo.cache
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.RazorTargetAssemblyInfo.cs
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.Views.pdb
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.csproj.CopyComplete
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\ref\EcommPortal.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.pdb
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.genruntimeconfig.cache
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\ProceedToBuy\AddToCart.cshtml.g.cs
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\ProceedToBuy\CartAdded.cshtml.g.cs
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\ProceedToBuy\CartNotAdded.cshtml.g.cs
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\ProceedToBuy\AddToWishlist.cshtml.g.cs
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\ProceedToBuy\WishlistStatus.cshtml.g.cs
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\Home.cshtml.g.cs
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\GetId.cshtml.g.cs
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\GetName.cshtml.g.cs
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\NoProduct.cshtml.g.cs
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\GetProductById.cshtml.g.cs
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\GetProductByName.cshtml.g.cs
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\RateAProduct.cshtml.g.cs
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\RatingAdded.cshtml.g.cs
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.csprojAssemblyReference.cache
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Vendor\VendorList.cshtml.g.cs
+D:\C#\Final_Project\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Authentication\Login.cshtml.g.cs
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\log4net.config
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\appsettings.Development.json
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\appsettings.json
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.exe
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.deps.json
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.runtimeconfig.json
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.runtimeconfig.dev.json
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\ref\EcommPortal.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.pdb
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.Views.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.Views.pdb
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Humanizer.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\log4net.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.csprojAssemblyReference.cache
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.AssemblyInfoInputs.cache
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.AssemblyInfo.cs
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.csproj.CoreCompileInputs.cache
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.MvcApplicationPartsAssemblyInfo.cache
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.RazorAssemblyInfo.cache
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.RazorAssemblyInfo.cs
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\staticwebassets\EcommPortal.StaticWebAssets.Manifest.cache
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\staticwebassets\EcommPortal.StaticWebAssets.xml
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\scopedcss\bundle\EcommPortal.styles.css
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.TagHelpers.input.cache
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.TagHelpers.output.cache
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.RazorCoreGenerate.cache
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Authentication\Login.cshtml.g.cs
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\ProceedToBuy\AddToCart.cshtml.g.cs
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\ProceedToBuy\AddToWishlist.cshtml.g.cs
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\ProceedToBuy\CartAdded.cshtml.g.cs
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\ProceedToBuy\CartNotAdded.cshtml.g.cs
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\ProceedToBuy\WishlistStatus.cshtml.g.cs
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\GetId.cshtml.g.cs
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\GetName.cshtml.g.cs
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\GetProductById.cshtml.g.cs
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\GetProductByName.cshtml.g.cs
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\Home.cshtml.g.cs
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\NoProduct.cshtml.g.cs
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\RateAProduct.cshtml.g.cs
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\RatingAdded.cshtml.g.cs
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Vendor\VendorList.cshtml.g.cs
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.RazorTargetAssemblyInfo.cache
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.RazorTargetAssemblyInfo.cs
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.Views.pdb
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.csproj.CopyComplete
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\ref\EcommPortal.dll
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.pdb
+F:\Users\Levi\Desktop\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.genruntimeconfig.cache
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\log4net.config
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\appsettings.Development.json
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\appsettings.json
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.exe
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.deps.json
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.runtimeconfig.json
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.runtimeconfig.dev.json
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\ref\EcommPortal.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.pdb
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.Views.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.Views.pdb
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Humanizer.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\log4net.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.csprojAssemblyReference.cache
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.AssemblyInfoInputs.cache
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.AssemblyInfo.cs
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.csproj.CoreCompileInputs.cache
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.RazorAssemblyInfo.cache
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.RazorAssemblyInfo.cs
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\staticwebassets\EcommPortal.StaticWebAssets.Manifest.cache
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\staticwebassets\EcommPortal.StaticWebAssets.xml
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\scopedcss\bundle\EcommPortal.styles.css
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.TagHelpers.input.cache
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.TagHelpers.output.cache
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.RazorCoreGenerate.cache
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Authentication\Login.cshtml.g.cs
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\ProceedToBuy\AddToCart.cshtml.g.cs
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\ProceedToBuy\AddToWishlist.cshtml.g.cs
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\ProceedToBuy\CartAdded.cshtml.g.cs
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\ProceedToBuy\CartNotAdded.cshtml.g.cs
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\ProceedToBuy\WishlistStatus.cshtml.g.cs
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\GetId.cshtml.g.cs
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\GetName.cshtml.g.cs
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\GetProductById.cshtml.g.cs
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\GetProductByName.cshtml.g.cs
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\Home.cshtml.g.cs
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\NoProduct.cshtml.g.cs
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\RateAProduct.cshtml.g.cs
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\RatingAdded.cshtml.g.cs
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Vendor\VendorList.cshtml.g.cs
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.RazorTargetAssemblyInfo.cache
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.RazorTargetAssemblyInfo.cs
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.Views.pdb
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.csproj.CopyComplete
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\ref\EcommPortal.dll
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.pdb
+D:\C#\Final_Project\Final Project\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.genruntimeconfig.cache
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\log4net.config
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\appsettings.json
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.exe
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.deps.json
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.runtimeconfig.json
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.runtimeconfig.dev.json
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ref\EcommPortal.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.pdb
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.Views.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.Views.pdb
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Humanizer.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\log4net.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.csprojAssemblyReference.cache
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.AssemblyInfoInputs.cache
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.AssemblyInfo.cs
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.csproj.CoreCompileInputs.cache
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.RazorAssemblyInfo.cache
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.RazorAssemblyInfo.cs
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\staticwebassets\EcommPortal.StaticWebAssets.Manifest.cache
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\staticwebassets\EcommPortal.StaticWebAssets.xml
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\scopedcss\bundle\EcommPortal.styles.css
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.TagHelpers.input.cache
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.TagHelpers.output.cache
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.RazorCoreGenerate.cache
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Authentication\Login.cshtml.g.cs
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\ProceedToBuy\AddToCart.cshtml.g.cs
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\ProceedToBuy\AddToWishlist.cshtml.g.cs
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\ProceedToBuy\CartAdded.cshtml.g.cs
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\ProceedToBuy\CartNotAdded.cshtml.g.cs
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\ProceedToBuy\WishlistStatus.cshtml.g.cs
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\GetId.cshtml.g.cs
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\GetName.cshtml.g.cs
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\GetProductById.cshtml.g.cs
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\GetProductByName.cshtml.g.cs
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\Home.cshtml.g.cs
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\NoProduct.cshtml.g.cs
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\RateAProduct.cshtml.g.cs
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\RatingAdded.cshtml.g.cs
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Vendor\VendorList.cshtml.g.cs
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.RazorTargetAssemblyInfo.cache
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.RazorTargetAssemblyInfo.cs
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.Views.pdb
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.csproj.CopyComplete
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\ref\EcommPortal.dll
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.pdb
+C:\Users\manik\Desktop\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.genruntimeconfig.cache
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\log4net.config
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\appsettings.Development.json
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\appsettings.json
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.exe
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.deps.json
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.runtimeconfig.json
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.runtimeconfig.dev.json
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ref\EcommPortal.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.pdb
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.Views.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\EcommPortal.Views.pdb
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Humanizer.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\log4net.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Final\EcommPortal\EcommPortal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.csprojAssemblyReference.cache
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.AssemblyInfoInputs.cache
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.AssemblyInfo.cs
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.csproj.CoreCompileInputs.cache
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.MvcApplicationPartsAssemblyInfo.cache
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.RazorAssemblyInfo.cache
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.RazorAssemblyInfo.cs
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\staticwebassets\EcommPortal.StaticWebAssets.Manifest.cache
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\staticwebassets\EcommPortal.StaticWebAssets.xml
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\scopedcss\bundle\EcommPortal.styles.css
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.TagHelpers.input.cache
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.TagHelpers.output.cache
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.RazorCoreGenerate.cache
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Authentication\Login.cshtml.g.cs
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\ProceedToBuy\AddToCart.cshtml.g.cs
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\ProceedToBuy\AddToWishlist.cshtml.g.cs
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\ProceedToBuy\CartAdded.cshtml.g.cs
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\ProceedToBuy\CartNotAdded.cshtml.g.cs
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\ProceedToBuy\WishlistStatus.cshtml.g.cs
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\GetId.cshtml.g.cs
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\GetName.cshtml.g.cs
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\GetProductById.cshtml.g.cs
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\GetProductByName.cshtml.g.cs
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\Home.cshtml.g.cs
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\NoProduct.cshtml.g.cs
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\RateAProduct.cshtml.g.cs
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Product\RatingAdded.cshtml.g.cs
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\Vendor\VendorList.cshtml.g.cs
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.RazorTargetAssemblyInfo.cache
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.RazorTargetAssemblyInfo.cs
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.Views.pdb
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.csproj.CopyComplete
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.dll
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\ref\EcommPortal.dll
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.pdb
+D:\Final\EcommPortal\EcommPortal\obj\Debug\net5.0\EcommPortal.genruntimeconfig.cache

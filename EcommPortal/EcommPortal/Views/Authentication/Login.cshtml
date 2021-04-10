@@ -1,0 +1,69 @@
+﻿@model EcommPortal.Models.User
+@{
+    ViewData["Title"] = "Login";
+}
+<style>
+body { margin: 0; padding: 0; background-image: url("https://ak8.picdn.net/shutterstock/videos/9142298/thumb/1.jpg"); background-size: cover; font-family: sans-serif; }
+
+    .loginbox {
+        width: 360px;
+        height: 420px;
+        background: rgba(0, 0, 0, 0.5);
+        color: #fff;
+        margin:10%;
+        left:23%;
+        position: relative;
+        box-sizing: border-box;
+        padding: 80px 40px;
+    }
+
+        .user {
+            width: 100px;
+            height: 100px;
+            overflow: hidden;
+            top: calc(-100px/2);
+            left: calc(100%-50px);
+            position: absolute;
+        }
+
+        h2 {
+            padding: 0;
+            margin: 0;
+        }
+    </style>
+
+<body>
+    <div class="container justify-content-center">
+
+        <div class="loginbox">
+
+            <form asp-action="Login">
+                <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-and-shapes-3/177800/130-512.png" alt="user" width="50px" height="50px" class="user" />
+                <h2>Log In Here</h2>
+                <br />
+                <div asp-validation-summary="ModelOnly" class="text-danger">            </div>
+                <div class="form-group col-lg-3 md-3">
+
+                    <label asp-for="Username" class="control-label"></label>
+                    <input type="text" asp-for="Username" class="form-control" placeholder="User Name" style="width:auto;" />
+                    <span asp-validation-for="Username" class="text-danger"></span>
+
+                </div>
+                <div class="form-group col-lg-3 md-2">
+                    <label asp-for="Password" class="control-label"></label>
+                    <input type="password" asp-for="Password" class="form-control" placeholder="Password" style="width:auto;" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+                <br />
+                <div class="text-danger">@ViewBag.Info</div>
+                <div class="">
+                    <center>
+                        <input type="submit" value="Login" class="btn btn-success" />
+                    </center>
+                </div>
+
+            </form>
+        </div>
+        </div>
+
+</body>

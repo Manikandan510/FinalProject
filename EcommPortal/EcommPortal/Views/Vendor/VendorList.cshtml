@@ -1,0 +1,59 @@
+﻿@model IEnumerable<EcommPortal.Models.Vendor>
+@{ ViewData["Title"] = "VendorList"; }
+<head>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-image: url("https://wallpapercave.com/wp/wp481083.png");
+            background-size: cover;
+            font-family: sans-serif;
+        }
+    </style>
+</head>
+<br />
+<center>
+    <h3>Vendor List</h3>
+    <hr />
+</center>
+
+<head>
+    <link rel="stylesheet" href="~/css/Style.css" />
+
+</head>
+<body>
+    <br />
+
+    <div class="container-fluid">
+        <table class="table table-striped table-hover table-borderless">
+            <thead>
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.VendorId)</th>
+                    <th>@Html.DisplayNameFor(model => model.VendorName)</th>
+                    <th>@Html.DisplayNameFor(model => model.DeliveryCharge)</th>
+                    <th>@Html.DisplayNameFor(model => model.VendorRating)</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var items in Model)
+                {
+    <tr>
+        <td>@Html.DisplayFor(modelItem => items.VendorId)</td>
+        <td>@Html.DisplayFor(modelItem => items.VendorName)</td>
+        <td>@Html.DisplayFor(modelItem => items.DeliveryCharge)</td>
+        <td>
+            <span class="badge badge-dark" style="font-size:medium">
+                @Html.DisplayFor(modelItem => items.VendorRating)<span class="material-icons" style="font-size:small">
+                    star_rate
+                </span>
+            </span>
+        </td>
+    </tr>
+}
+            </tbody>
+        </table>
+
+    </div>
+</body>

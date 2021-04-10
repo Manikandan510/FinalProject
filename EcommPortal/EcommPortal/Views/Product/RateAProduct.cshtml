@@ -1,0 +1,58 @@
+﻿@model EcommPortal.Models.ViewModels.ProductViewModel
+
+@{ ViewData["Title"] = "RateAProduct"; }
+
+
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        .forms {
+            margin: 5%;
+            margin-left: 10%;
+            width: 80%;
+            height: 380px;
+            background: rgba(0, 0, 0, 0.5);
+            color: #fff;
+            position: center;
+            box-sizing: border-box;
+            padding: 20px 40px;
+        }
+
+    body { background-size: cover; background-image: url("https://ak8.picdn.net/shutterstock/videos/9142298/thumb/1.jpg"); }
+    </style>
+
+</head>
+<body>
+
+    <div class="forms">
+        <h1>Add Ratings </h1>
+
+        <hr />
+        <div class="row">
+            <div class="col-md-4">
+                <form asp-action="RateAProduct">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <label asp-for="Id" class="control-label"></label>
+                        <input asp-for="Id" class="form-control" readonly />
+                        <span asp-validation-for="Id" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Rating" class="control-label"></label>
+                        <input asp-for="Rating" class="form-control" min="1" max="5" />
+                        <span asp-validation-for="Rating" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <button class="btn btn-primary" type="submit"><i class="fa fa-star"></i> Add Ratings</button>
+                        
+                    </div>
+                </form>
+            </div>
+        </div>
+</div>
+</body>
+
+
+        @section Scripts {
+            @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+        }

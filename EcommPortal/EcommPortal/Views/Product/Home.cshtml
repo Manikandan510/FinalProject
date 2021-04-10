@@ -1,0 +1,124 @@
+﻿@model IEnumerable<EcommPortal.Models.Product>
+@{ ViewData["Title"] = "Home"; }
+
+
+<head>
+    <link rel="stylesheet" href="~/css/Style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-image: url("https://wallpapercave.com/wp/wp481083.png");
+            background-size: cover;
+            font-family: sans-serif;
+        }
+
+        .card-style {
+            padding: 2px,2px,2px,2px;
+        }
+
+        $color: #0cf;
+        .button {
+            display: inline-block;
+            padding: .75rem 1.25rem;
+            border-radius: 10rem;
+            text-transform: uppercase;
+            font-size: 1rem;
+            letter-spacing: .15rem;
+            transition: all .3s;
+            position: relative;
+            overflow: hidden;
+            z-index: 1;
+            &:after
+
+        {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: $color;
+            border-radius: 10rem;
+            z-index: -2;
+        }
+
+        &:before {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 0%;
+            height: 100%;
+            background-color: darken($color, 15%);
+            transition: all .3s;
+            border-radius: 10rem;
+            z-index: -1;
+        }
+
+        &:hover {
+            color: #fff;
+            &:before
+
+        {
+            width: 100%;
+        }
+
+        }
+        }
+    </style>
+</head>
+<body>
+
+        <center>
+            <div class="justify-content-center">
+                <br />
+                <a class="btn btn-warning button" href="@Url.Action("GetId", "Product")"><i class="fa fa-search " style="font-size:large"></i> Search By ProductId</a>
+                <a class="btn btn-warning button" href="@Url.Action("GetName","Product")"><i class="fa fa-search " style="font-size:large"></i> Search By ProductName</a>
+            </div>
+        </center>
+        <br />
+
+        <div class="container-fluid">
+
+            <div class="row">
+                @foreach (var items in Model)
+                {
+
+    <div class="col-md-4 col-lg-4 col-sm-1 container" style="padding: 10px 10px;">
+
+        <div class="card bg-light card-style" style="width: 22rem;height:20rem;">
+            <div id="mycard " class="card-body">
+                <span class="badge badge-warning" style="font-size:medium;float:right">
+                    @Html.DisplayFor(modelItem => items.Id)
+                </span>
+                <h5 class="card-title">
+                    @Html.DisplayFor(modelItem => items.Name)
+                </h5>
+                <hr />
+                <h6 class="card-subtitle mb-2 "> Rs/-@Html.DisplayFor(modelItem => items.Price)</h6>
+                <p class="card-text">@Html.DisplayFor(modelItem => items.Description)</p>
+                <a asp-action="RateAProduct" asp-controller="Product" asp-route-id="@items.Id" class="btn btn-outline-primary">Add Rating</a>
+                <span class="badge badge-success" style="font-size:medium;float:right">
+                    @Html.DisplayFor(modelItem => items.Rating)<span class="material-icons" style="font-size:small">
+                        star_rate
+                    </span>
+                </span>
+            </div>
+        </div>
+    </div>}
+
+            </div>
+            <br />
+
+
+        </div>
+    
+    <br/>
+
+</body>

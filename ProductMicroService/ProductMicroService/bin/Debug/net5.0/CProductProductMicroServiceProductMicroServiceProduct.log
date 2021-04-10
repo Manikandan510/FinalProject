@@ -1,0 +1,12 @@
+WARN  04:03:58 Storing keys in a directory '/root/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed.
+WARN  04:03:58 No XML encryptor configured. Key {69c57761-1f4f-4e3b-84e7-c8d5fa1d10e0} may be persisted to storage in unencrypted form.
+INFO  04:03:59 Now listening on: https://[::]:443
+INFO  04:03:59 Now listening on: https://[::]:443
+INFO  04:03:59 Now listening on: http://[::]:80
+INFO  04:03:59 Now listening on: http://[::]:80
+INFO  04:03:59 Application started. Press Ctrl+C to shut down.
+INFO  04:03:59 Application started. Press Ctrl+C to shut down.
+INFO  04:03:59 Hosting environment: Development
+INFO  04:03:59 Hosting environment: Development
+INFO  04:03:59 Content root path: /app
+INFO  04:03:59 Content root path: /app

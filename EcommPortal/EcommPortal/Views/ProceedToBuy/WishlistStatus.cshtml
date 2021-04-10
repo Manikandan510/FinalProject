@@ -1,0 +1,43 @@
+﻿@model EcommPortal.Models.ViewModels.WishlistStatusViewModel
+@{
+    ViewData["Title"] = "WishlistStatus";
+}
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        .forms {
+            margin: 5%;
+            margin-left: 10%;
+            width: 80%;
+            height: 260px;
+            background: rgba(0, 0, 0, 0.5);
+            color: #fff;
+            position: center;
+            box-sizing: border-box;
+            padding: 20px 40px;
+        }
+
+    body { background-size: cover; background-image: url("https://ak8.picdn.net/shutterstock/videos/9142298/thumb/1.jpg"); }
+    </style>
+
+</head>
+<body>
+
+    <div class="forms">
+        <h1>Wishlist Status</h1>
+        <hr style="color:white;"/>
+        <div>
+            <center>
+            <h5 style="font-weight:bold;"><i class="fa fa-envelope" style="font-size:larger"></i> @Html.DisplayNameFor(model => model.Message) </h5>  
+                <br />
+                @Html.DisplayFor(model => model.Message)
+            <br />
+            <br/>
+                    
+                        <a class="btn btn-success" asp-action="Home" asp-controller="Product"><i class="fa fa-arrow-circle-left"></i> Continue Shopping</a>
+                        <a class="btn btn-danger" asp-action="Logout" asp-controller="Authentication"><i class="fa fa-power-off"></i> LogOut</a>
+                    </center>
+               
+        </div>
+</div>
+</body>

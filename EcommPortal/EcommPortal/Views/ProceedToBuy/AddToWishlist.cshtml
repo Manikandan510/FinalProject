@@ -1,0 +1,62 @@
+﻿@model EcommPortal.Models.ViewModels.WishlistViewModel
+@{ ViewData["Title"] = "AddToWishlist"; }
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        .forms {
+            margin: 5%;
+            margin-left: 10%;
+            width: 80%;
+            height: 430px;
+            background: rgba(0, 0, 0, 0.5);
+            color: #fff;
+            position: center;
+            box-sizing: border-box;
+            padding: 20px 20px;
+        }
+
+    body { background-size: cover; background-image: url("https://ak8.picdn.net/shutterstock/videos/9142298/thumb/1.jpg"); }
+
+        .heart:hover {
+            color: red;
+        }
+    </style>
+
+</head>
+<body>
+
+    <div class="forms">
+
+
+        <h1>Add To Wishlist</h1>
+        <div class="row">
+            <div class="col-md-4">
+                <form asp-action="AddToWishlist">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <label asp-for="CustomerId" class="control-label"></label>
+                        <input asp-for="CustomerId" class="form-control" readonly />
+                        <span asp-validation-for="CustomerId" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="CustomerName" class="control-label"></label>
+                        <input asp-for="CustomerName" class="form-control" readonly />
+                        <span asp-validation-for="CustomerName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="ProductId" class="control-label"></label>
+                        <input asp-for="ProductId" class="form-control" readonly />
+                        <span asp-validation-for="ProductId" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-primary"><i class="fa fa-heart heart"></i> Add Item to Wishlist</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

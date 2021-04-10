@@ -1,0 +1,46 @@
+﻿@model EcommPortal.Models.Cart
+@{
+    ViewData["Title"] = "CartNotAdded";
+}
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        .forms {
+            margin: 5%;
+            margin-left: 10%;
+            width: 80%;
+            height: 300px;
+            background: rgba(0, 0, 0, 0.5);
+            color: #fff;
+            position: center;
+            box-sizing: border-box;
+            padding: 20px 40px;
+        }
+
+    body { background-size: cover; background-image: url("https://ak8.picdn.net/shutterstock/videos/9142298/thumb/1.jpg"); }
+
+        .heart:hover {
+            color: red;
+        }
+       
+    </style>
+   
+</head>
+<body>
+
+    <div class="forms">
+        <div>
+            <h2><i class="fa fa-exclamation-circle" style="font-size:xx-large;"></i> Out of Stock </h2>
+            <hr />
+            <h4>The Product is currently not available, you can add the item in the WishList.</h4>
+            
+        </div>
+        <br />
+        <center>
+        <div>
+            <a class="btn btn-success" asp-action="Home" asp-controller="Product"><i class="fa fa-arrow-circle-left"></i> Back</a>
+            <a class="btn btn-primary" asp-action="AddToWishlist" asp-controller="ProceedtoBuy" asp-route-id="@Model.ProductId"><i class="fa fa-heart heart"></i> Add To Wishlist</a>
+        </div>
+        </center>
+</div>
+</body>
